@@ -67,6 +67,11 @@
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/aliraza5101">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   <h3 align="center">
+ <a href="https://github.com/aliraza5101">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/aliraza5101">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a> 【S T A T S】 
 </h3>
 
@@ -75,14 +80,16 @@
 </a>
 <br><br>
 
-<p align="center">
- <br/>
-<a href="https://github.com/aliraza5101"><img align="center" width ="%" src="https://img.shields.io/github/followers/aliraza5101?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliraza5101&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia"  alt="aliraza5101" /></p>
+<div align="center">
+  <br/>
+  <a href="https://github.com/aliraza5101">
+    <img src="https://img.shields.io/github/followers/aliraza5101?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge">
+  </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliraza5101&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia"  alt="aliraza5101" /></p>
+  <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliraza5101&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" " alt="aliraza5101" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliraza5101&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="aliraza5101" />
+</div>
 
 <a href="https://github.com/aliraza5101">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
@@ -95,6 +102,7 @@
   <a href="https://github.com/aliraza5101">
     <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right"/>
   </a> 
+  
   【G R A P H】 
 </h3>
 
