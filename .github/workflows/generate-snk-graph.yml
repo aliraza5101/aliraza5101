@@ -1,9 +1,10 @@
 name: Generate Snake
 
 on:
-  # Har 12 ghantay baad chalega automatically
+  push:          # <--- Ye line naya jadoo karegi (Save karte hi chalega)
+  workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */12 * * *"
   # Aap manually bhi chala saktay hain
   workflow_dispatch:
 
