@@ -1,15 +1,10 @@
 name: Generate Snake
 
 on:
-  # Ye line save karte hi robot ko chala degi
-  push:
-  
-  # Ye line manually chalane ki ijazat degi
-  workflow_dispatch:
-  
-  # Ye line har 12 ghantay baad khud chalayegi
   schedule:
     - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
 
 jobs:
   build:
