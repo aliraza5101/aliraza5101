@@ -189,7 +189,7 @@
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
-![Ali's Snake Animation](https://github.com/aliraza5101/aliraza5101/raw/output/github-contribution-grid-snake.svg)
+![Ali's Snake Animation](https://github.com/aliraza5101/aliraza5101/raw/output/github-contribution-grid-snake-dark.svg)
 
 </br></br>
 <a href="https://github.com/aliraza5101">
