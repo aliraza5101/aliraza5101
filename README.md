@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e0/98/95/e0989568971032df00e96b349d949437.gif" width="100%" style="border-radius: 10px;" />
+  <img src="https://github.com/aliraza5101/aliraza5101/blob/main/banner.jpg?raw=true" width="100%" style="border-radius: 10px;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
@@ -176,7 +176,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R4cTJ6b3IyNHR4cTJ6b3IyNHR4cTJ6b3IyNHR4cTJ6b3IyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmcMtDeW1w1ix6cShY/giphy.gif" width="100%" style="border-radius: 10px;" />
+  <img src="https://github.com/aliraza5101/aliraza5101/blob/main/footer.jpg?raw=true" width="100%" style="border-radius: 10px;" />
 </div>
 
 [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
