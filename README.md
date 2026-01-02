@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/aliraza5101/aliraza5101/blob/main/banner.jpg?raw=true" width="100%" style="border-radius: 10px;" />
+  <img src="https://github.com/aliraza5101/aliraza5101/blob/main/banner.png?raw=true" width="100%" style="border-radius: 10px;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
