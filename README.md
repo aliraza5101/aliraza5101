@@ -2,17 +2,20 @@
   <img src="https://github.com/aliraza5101/aliraza5101/blob/main/banner.png?raw=true" width="100%" style="border-radius: 10px;" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Ali Raza</h1>
+<h1 align="center">Hi 👋, Myself Ali Raza</h1>
 
 <div align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=435&lines=AI+ENTHUSIAST+%7C+PYTHON+DEVELOPER;FROM+MUZAFFARABAD+AZAD+KASHMIR;WORKING+ON+DEEP+LEARNING" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=AI+ENTHUSIAST+%7C+PYTHON+DEVELOPER;FROM+AJK+PAKISTAN;WORKING+ON+DEEP+LEARNING" alt="Typing SVG" />
 </div>
 
-<div align='center' style="display: flex; align-items: flex-start; justify-content: center;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" style="margin: 0 5px;" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" style="margin: 0 5px;" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" style="margin: 0 5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="icon" width="50" height="50" style="margin: 0 5px;" />
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5" width="100%">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" style="margin: 0 15px;" />
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45" style="margin: 0 15px;" />
+    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="45" style="margin: 0 15px;" />
+    <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="45" style="margin: 0 15px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" width="45" height="45" style="margin: 0 15px;" />
+  </marquee>
 </div>
 
 <img align="right" alt="micro chip" width="300" src="https://clipart-library.com/img/2091643.gif">
@@ -38,27 +41,6 @@
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/aliraza5101">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【C O N N E C T】 
-</h3>
-
-<a href="https://github.com/aliraza5101">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
-</a>
-<br><br>
-<div align="center">
-  <a href="https://linkedin.com/in/ali-raza-qureshi-843a24314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Raza LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:alirazaqureshi310251@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email Ali" height="30" width="40" /></a>
-</div>
-
-<a href="https://github.com/aliraza5101">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
-
-<h3 align="center">
- <a href="https://github.com/aliraza5101">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/aliraza5101">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a> 【S K I L L S】 
 </h3>
 
@@ -66,13 +48,19 @@
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 <br><br>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
+
+<div align="center">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c,github,anaconda,tensorflow,sklearn,opencv&theme=dark" alt="My Skills" style="vertical-align: middle;" />
+    </a>
+    <a href="https://www.spyder-ide.org/" target="_blank" style="text-decoration: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="Spyder" height="48" width="48" style="vertical-align: middle; margin-left: 5px;" />
+    </a>
+  </p>
+</div>
+
+<br>
 
 <a href="https://github.com/aliraza5101">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
