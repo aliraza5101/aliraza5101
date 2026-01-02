@@ -10,25 +10,21 @@
 
 <br>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="center">
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=aliraza5101&label=Profile%20views&labelColor=01102d&icon_color=%2341C350&style=flat" alt="aliraza5101" />
-      </p>
-      <ul>
-        <li>🔭 I’m currently working on <b>Deep Learning Projects</b></li>
-        <li>🌱 I’m currently learning <b>Neural Networks</b></li>
-        <li>👯 I’m looking to collaborate on <b>AI & Open Source Projects</b></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://github.com/aliraza5101"><b>My GitHub</b></a></li>
-        <li>📫 Reach me at: <a href="mailto:alirazaqureshi310251@gmail.com"><b>alirazaqureshi310251@gmail.com</b></a></li>
-      </ul>
-    </td>
-    <td width="45%" align="center">
-      <img src="myfav.jpg" width="100%" alt="My Favorite Picture" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="myfav.jpg" width="380" alt="My Favorite Picture" style="border-radius: 10px;" />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aliraza5101&label=Profile%20views&labelColor=01102d&icon_color=%2341C350&style=flat" alt="aliraza5101" />
+</p>
+
+<ul>
+  <li>🔭 I’m currently working on <b>Deep Learning Projects</b></li>
+  <li>🌱 I’m currently learning <b>Neural Networks</b></li>
+  <li>👯 I’m looking to collaborate on <b>AI & Open Source Projects</b></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://github.com/aliraza5101"><b>My GitHub</b></a></li>
+  <li>📫 Reach me at: <a href="mailto:alirazaqureshi310251@gmail.com"><b>alirazaqureshi310251@gmail.com</b></a></li>
+</ul>
+
+<br clear="all">
 
 <br>
 
