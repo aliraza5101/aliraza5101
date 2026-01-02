@@ -25,7 +25,7 @@
       </ul>
     </td>
     <td width="45%" align="center">
-      <img src="myfav.png" width="100%" alt="My Favorite Picture" style="border-radius: 10px;" />
+      <img src="myfav.jpg" width="100%" alt="My Favorite Picture" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
