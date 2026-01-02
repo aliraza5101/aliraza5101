@@ -5,32 +5,33 @@
 <h1 align="center">Hi 👋, Myself Ali Raza</h1>
 
 <div align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=AI+ENTHUSIAST+%7C+PYTHON+DEVELOPER;FROM+AJK+PAKISTAN;WORKING+ON+DEEP+LEARNING" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=AI+ENTHUSIAST+%7C+PYTHON+DEVELOPER;FROM+AJK+PAKISTAN;WORKING+ON+DEEP+LEARNING" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5" width="100%">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" style="margin: 0 15px;" />
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45" style="margin: 0 15px;" />
-    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="45" style="margin: 0 15px;" />
-    <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="45" style="margin: 0 15px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" width="45" height="45" style="margin: 0 15px;" />
-  </marquee>
-</div>
+<br>
 
-<img align="right" alt="micro chip" width="300" src="https://clipart-library.com/img/2091643.gif">
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="center">
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=aliraza5101&label=Profile%20views&labelColor=01102d&icon_color=%2341C350&style=flat" alt="aliraza5101" />
+      </p>
+      <ul>
+        <li>🔭 I’m currently working on <b>Deep Learning Projects</b></li>
+        <li>🌱 I’m currently learning <b>Neural Networks</b></li>
+        <li>👯 I’m looking to collaborate on <b>AI & Open Source Projects</b></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://github.com/aliraza5101"><b>My GitHub</b></a></li>
+        <li>📫 Reach me at: <a href="mailto:alirazaqureshi310251@gmail.com"><b>alirazaqureshi310251@gmail.com</b></a></li>
+      </ul>
+    </td>
+    <td width="45%" align="center">
+      <img src="myfav.png" width="100%" alt="My Favorite Picture" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliraza5101&label=Profile%20views&labelColor=01102d&icon_color=%2341C350&style=flat" alt="aliraza5101" /> </p>
-
-- 🔭 I’m currently working on **Deep Learning Projects**
-
-- 🌱 I’m currently learning **Neural Networks**
-
-- 👯 I’m looking to collaborate on **AI & Open Source Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/aliraza5101](https://github.com/aliraza5101)
-
-- 📫 How to reach me **alirazaqureshi310251@gmail.com**
+<br>
+<br>
 
 <a href="https://github.com/aliraza5101">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
