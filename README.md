@@ -121,6 +121,7 @@
 
 [![github graph](https://github-readme-activity-graph.vercel.app/graph?username=aliraza5101&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/aliraza5101) </br>
 
+![3D Contribution Graph](https://github.com/aliraza5101/aliraza5101/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aliraza5101&theme=algolia" alt="aliraza5101" />
