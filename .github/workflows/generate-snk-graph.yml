@@ -1,12 +1,15 @@
 name: Generate Snake
 
 on:
-  push:          # <--- Ye line naya jadoo karegi (Save karte hi chalega)
+  # Ye line save karte hi robot ko chala degi
+  push:
+  
+  # Ye line manually chalane ki ijazat degi
   workflow_dispatch:
+  
+  # Ye line har 12 ghantay baad khud chalayegi
   schedule:
     - cron: "0 */12 * * *"
-  # Aap manually bhi chala saktay hain
-  workflow_dispatch:
 
 jobs:
   build:
@@ -18,7 +21,6 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Aapka username yahan automatically aa jayega
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
