@@ -180,18 +180,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/aliraza5101/aliraza5101/blob/main/footer.jpg?raw=true" width="100%" style="border-radius: 10px;" />
-</div>
-
-<div align="center">
   <br>
   <h3><i>"We want to make a machine that will be proud of us"</i></h3>
   <p>- Danny Hillis</p>
   <br>
 </div>
-
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
