@@ -167,7 +167,7 @@
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/aliraza5101">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【Q U O T E S】 
+   </a> 【Q U O T E】 
 </h3>
 
 <a href="https://github.com/aliraza5101">
