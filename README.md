@@ -176,7 +176,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github.com/aliraza5101/aliraza5101/blob/main/footer.jpg?raw=true" width="100%" style="border-radius: 10px;" />
+  <img src="https://github.com/aliraza5101/aliraza5101/blob/main/footer.png?raw=true" width="100%" style="border-radius: 10px;" />
 </div>
 
 <div align="center">
