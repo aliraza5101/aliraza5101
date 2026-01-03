@@ -18,7 +18,7 @@
 </div>
 <br>
 
-<img align="right" src="myfav.jpg" width="380" alt="My Favorite Picture" style="border-radius: 10px;" />
+<img align="right" src="myfav.png" width="380" alt="My Favorite Picture" style="border-radius: 10px;" />
 
 <ul>
   <li>🔭 I’m currently working on <b>Deep Learning Projects</b></li>
