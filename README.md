@@ -3,6 +3,9 @@
 </div>
 
 <br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aliraza5101&label=Profile%20views&labelColor=01102d&icon_color=%2341C350&style=flat" alt="aliraza5101" />
+</p>
 
 <div align="center">
   <h3 style="margin-bottom: 0px;">Hi 👋, Myself</h3>
@@ -17,15 +20,15 @@
 
 <img align="right" src="myfav.jpg" width="380" alt="My Favorite Picture" style="border-radius: 10px;" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aliraza5101&label=Profile%20views&labelColor=01102d&icon_color=%2341C350&style=flat" alt="aliraza5101" />
-</p>
-
 <ul>
   <li>🔭 I’m currently working on <b>Deep Learning Projects</b></li>
+  <br>
   <li>🌱 I’m currently learning <b>Neural Networks</b></li>
+  <br>
   <li>👯 I’m looking to collaborate on <b>AI & Open Source Projects</b></li>
+  <br>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/aliraza5101"><b>My GitHub</b></a></li>
+  <br>
   <li>📫 Reach me at: <a href="mailto:alirazaqureshi310251@gmail.com"><b>alirazaqureshi310251@gmail.com</b></a></li>
 </ul>
 
