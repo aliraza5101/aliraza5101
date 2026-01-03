@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, Myself Ali Raza</h1>
 
 <div align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=AI+ENTHUSIAST+%7C+PYTHON+DEVELOPER;FROM+AJK+PAKISTAN;WORKING+ON+DEEP+LEARNING" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&color=F7F7F7&center=true&vCenter=true&width=500&lines=I'm+an+AI+Student;I'm+a+Python+Developer;I'm+a+Content+Creator;I'm+a+Prompt+Engineer;From+Muzaffarabad+AJK+Pakistan;Working+on+Deep+Learning" alt="Typing SVG" />
 </div>
 
 <br>
