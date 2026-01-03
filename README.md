@@ -13,6 +13,7 @@
 <div align='center'>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&color=F7F7F7&center=true&vCenter=true&width=500&lines=I'm+an+AI+Student;I'm+a+Python+Developer;I'm+a+Content+Creator;I'm+a+Prompt+Engineer;From+Muzaffarabad+AJK+Pakistan;Working+on+Deep+Learning" alt="Typing SVG" />
 </div>
+<br>
 
 <img align="right" src="myfav.jpg" width="380" alt="My Favorite Picture" style="border-radius: 10px;" />
 
