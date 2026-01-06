@@ -1,6 +1,4 @@
 ![ChatGPT Image Jan 6, 2026, 01_28_04 PM](https://github.com/user-attachments/assets/9e9449f1-da38-4e67-b62e-799d94c34b07)
-
-<br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aliraza5101&label=Profile%20views&labelColor=01102d&icon_color=%2341C350&style=flat" alt="aliraza5101" />
 </p>
@@ -192,14 +190,10 @@
 </a>
 <br><br>
 
-<div align="center">
-  <img src="https://github.com/aliraza5101/aliraza5101/blob/main/footer.png?raw=true" width="100%" style="border-radius: 10px;" />
-</div>
+<img width="1536" height="1024" alt="footer" src="https://github.com/user-attachments/assets/9a2357c1-80a1-4717-88ae-f73a1a3cfc33" />
 
-<div align="center">
-  <br>
-  <h3><i>"We want to make a machine that will be proud of us"</i></h3>
-  <p>- Danny Hillis</p>
+  <h1><i>"We want to make a machine that will be proud of us"</i></h1>
+  <h3>- Danny Hillis</h3>
   <br>
 </div>
 
