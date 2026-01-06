@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/aliraza5101/aliraza5101/blob/main/banner.png?raw=true" width="100%" style="border-radius: 10px;" />
-</div>
+<img width="1536" height="1024" alt="ChatGPT Image Jan 6, 2026, 12_55_31 PM" src="https://github.com/user-attachments/assets/46aa51e6-375c-42c2-9c03-a87aff775c87" />
 
 <br>
 <p align="left">
