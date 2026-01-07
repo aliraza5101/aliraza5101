@@ -218,22 +218,4 @@
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    <h3 align="center">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【P O P U L A R_R E P O】 
-</h3>
-
-<a href="https://github.com/aliraza5101">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
-</a>
-<br><br>
-
-[![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=aliraza5101&repo=Ali-Raza-Personal-Portfolio&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/aliraza5101/Ali-Raza-Personal-Portfolio)
-[![Timetable SA](https://github-readme-stats.vercel.app/api/pin/?username=aliraza5101&repo=Departemental-Timetable-Using-Simulated-Annealing&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/aliraza5101/Departemental-Timetable-Using-Simulated-Annealing)
-[![Task 02](https://github-readme-stats.vercel.app/api/pin/?username=aliraza5101&repo=Task-02-Developers-Hub-Corporation&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/aliraza5101/Task-02-Developers-Hub-Corporation)
-[![Task 01](https://github-readme-stats.vercel.app/api/pin/?username=aliraza5101&repo=Task-01-Developers-Hub-Corporation&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/aliraza5101/Task-01-Developers-Hub-Corporation)
-
-<p align="left">
-  <a href="https://github.com/aliraza5101?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
+   
