@@ -208,7 +208,7 @@
 </a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00316E&height=110&section=footer"/>
 </p>
 
   
