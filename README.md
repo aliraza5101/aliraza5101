@@ -207,15 +207,8 @@
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=110&section=footer"/>
+</p>
 
-<h3 align="center">
- <a href="https://github.com/aliraza5101">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/aliraza5101">
-      <a href="https://github.com/aliraza5101">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/aliraza5101">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   <h3 align="center">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   
+  
